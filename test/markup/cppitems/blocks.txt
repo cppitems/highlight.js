@@ -1,0 +1,7 @@
+// test /*b b-block */
+/*R b-block */
+/*B B-block */
+#pragma
+#include "ss" 1.0
+/*K int main(){
+} */
